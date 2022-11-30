@@ -1,0 +1,21 @@
+html {
+    /*font-size: 16px;*/
+}
+
+.parent {
+    width: 300px;
+    height: 200px;
+    background-color: royalblue;
+}
+.child {
+    width: 10em;
+    height: 100px;
+    background-color: orange;
+}
+
+/*
+Q1 em 단위의 기준은?
+요소의 글꼴 크기
+Q2 0px 와 0vw 중 더 큰 값은?
+모두 같은 값
+*/
