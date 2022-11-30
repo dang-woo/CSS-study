@@ -1,0 +1,24 @@
+body {
+    margin: 20px;
+}
+span {
+    width: 120px;
+    height: 30px;
+    background-color: royalblue;
+    color: white;
+    display: block;
+}
+
+.parent {
+    width: 100px;
+    height: 100px;
+    background-color: royalblue;
+    padding: 30px;
+
+}
+.child {
+    width: 200px;
+    height: 100px;
+    background-color: orange;
+    opacity: .5;
+}
